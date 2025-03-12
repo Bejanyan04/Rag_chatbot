@@ -1,0 +1,101 @@
+ID,Title,Text,Vector,Vectors
+1,The Invention of the Transistor,"The transistor was invented in 1947 by John Bardeen, Walter Brattain, and William Shockley at Bell Labs. This groundbreaking invention replaced bulky vacuum tubes and became the foundation of modern electronics. Transistors are essential components in nearly all electronic devices today, from smartphones to computers, enabling the miniaturization and efficiency of technology.",,"[ 0.00062068 -0.02768563 -0.01361475 ...  0.00894924 -0.01648049
+ -0.00977723]"
+2,The Launch of Sputnik 1,"On October 4, 1957, the Soviet Union launched Sputnik 1, the world's first artificial satellite. This event marked the beginning of the space race between the United States and the Soviet Union and spurred significant advancements in space technology and exploration. Sputnik's success demonstrated the potential of satellite technology for communication, weather monitoring, and scientific research.",,"[-0.00064288 -0.05619457 -0.00878318 ...  0.03991951 -0.00272735
+ -0.01341411]"
+3,The Apollo 11 Moon Landing,"On July 20, 1969, NASA's Apollo 11 mission successfully landed the first humans on the Moon. Astronauts Neil Armstrong and Buzz Aldrin walked on the lunar surface, while Michael Collins orbited above. This historic event showcased the capabilities of human spaceflight and inspired generations of scientists and engineers.",,"[-0.00313978  0.00940266 -0.00914147 ...  0.03316494  0.00634068
+ -0.01878309]"
+4,The Invention of the World Wide Web,"In 1989, Tim Berners-Lee, a British scientist at CERN, proposed the concept of the World Wide Web. By 1991, the first website was launched, revolutionizing how information is shared and accessed. The web's development laid the groundwork for the modern internet, enabling global communication, e-commerce, and social networking.",,"[ 0.00998623  0.00647595 -0.01810677 ...  0.00279312 -0.01639208
+  0.00462645]"
+5,The Release of the First iPhone,"On January 9, 2007, Apple Inc. unveiled the first iPhone, a revolutionary device that combined a phone, iPod, and internet communicator into one. The iPhone's touchscreen interface and app ecosystem transformed the smartphone industry and set new standards for mobile technology.",,"[-0.03118479  0.00529812 -0.00910288 ...  0.00945975 -0.02562862
+ -0.00872954]"
+6,The Human Genome Project Completion,"In 2003, the Human Genome Project was completed, mapping the entire human genome. This monumental achievement has had profound implications for medicine, enabling advancements in personalized healthcare, genetic research, and the understanding of human biology.",,"[-0.01400712 -0.02086678 -0.01686131 ...  0.02679102  0.00461707
+  0.00986375]"
+7,The First CRISPR Gene Editing Breakthrough,"In 2012, scientists Jennifer Doudna and Emmanuelle Charpentier demonstrated the potential of CRISPR-Cas9 as a precise gene-editing tool. This breakthrough has revolutionized biotechnology, offering possibilities for treating genetic disorders, improving crop yields, and combating diseases.",,"[-0.00558784 -0.00844932 -0.01873624 ...  0.00927203 -0.03105891
+  0.00628144]"
+8,The Launch of Bitcoin,"In 2009, an anonymous person or group known as Satoshi Nakamoto launched Bitcoin, the first decentralized cryptocurrency. Bitcoin introduced blockchain technology, which has since inspired a wide range of applications in finance, supply chain management, and digital identity verification.",,"[-0.00376131 -0.02909455 -0.020968   ...  0.02911575 -0.0298786
+  0.01101906]"
+9,The Discovery of the Higgs Boson,"On July 4, 2012, scientists at CERN announced the discovery of the Higgs boson, a fundamental particle that gives mass to other particles. This discovery confirmed the Standard Model of particle physics and was made possible by the Large Hadron Collider, the world's most powerful particle accelerator.",,"[-0.01516201 -0.00310767 -0.00376015 ...  0.02057614 -0.00368125
+ -0.01700718]"
+10,The Rise of Social Media,"The mid-2000s saw the rise of social media platforms like Facebook, Twitter, and YouTube, transforming how people communicate and share information. These platforms have had significant cultural, political, and economic impacts, enabling global connectivity and new forms of digital expression.",,"[-0.02040379  0.01007445 -0.01914145 ...  0.01577926 -0.02137483
+ -0.00069907]"
+11,The Development of Autonomous Vehicles,"In the 2010s, companies like Tesla, Waymo, and Uber began developing and testing autonomous vehicles. These self-driving cars use AI, sensors, and machine learning to navigate without human intervention, promising to revolutionize transportation and reduce accidents caused by human error.",,"[-0.01946698  0.02386036 -0.01916997 ...  0.00119194 -0.01862543
+ -0.00680045]"
+12,The Emergence of Cloud Computing,"In the late 2000s, cloud computing emerged as a transformative technology, allowing businesses and individuals to store and access data and applications over the internet. Companies like Amazon Web Services (AWS), Microsoft Azure, and Google Cloud have driven the adoption of cloud-based solutions, enabling scalability and cost efficiency.",,"[-0.05514141 -0.00087671 -0.02219949 ...  0.02657945 -0.01413114
+ -0.00641434]"
+13,The First Successful Quantum Supremacy Experiment,"In 2019, Google announced that its quantum computer, Sycamore, had achieved quantum supremacy by performing a calculation in 200 seconds that would take the world's fastest supercomputer 10,000 years. This milestone demonstrated the potential of quantum computing to solve problems beyond the reach of classical computers.",,"[ 0.00608228 -0.00426488 -0.01714817 ...  0.00960627 -0.03118079
+ -0.00742792]"
+14,The Launch of the James Webb Space Telescope,"On December 25, 2021, NASA launched the James Webb Space Telescope (JWST), the most powerful space telescope ever built. JWST is designed to observe the universe in infrared, providing unprecedented insights into the formation of galaxies, stars, and planetary systems.",,"[-0.01731153  0.01153901 -0.00828257 ...  0.03074662 -0.01018467
+ -0.00187501]"
+15,The Development of mRNA Vaccines,"During the COVID-19 pandemic, mRNA vaccine technology emerged as a game-changer in medicine. Companies like Pfizer-BioNTech and Moderna developed highly effective vaccines in record time, showcasing the potential of mRNA for treating other diseases, including cancer and HIV.",,"[-0.00805866  0.00990226 -0.0213377  ...  0.01838539 -0.01105531
+  0.01283556]"
+16,The Creation of the First Artificial Intelligence Program,"In 1956, the Dartmouth Conference marked the birth of artificial intelligence as a field of study. Researchers like John McCarthy and Marvin Minsky laid the groundwork for AI by developing early programs capable of problem-solving and logical reasoning.",,"[ 0.0011848  -0.00877521 -0.01608693 ... -0.00069959 -0.00111977
+  0.00094326]"
+17,The Introduction of the Personal Computer,"In the 1970s and 1980s, companies like Apple, IBM, and Microsoft introduced personal computers, making computing power accessible to individuals and small businesses. The PC revolution transformed industries, education, and everyday life.",,"[-0.00499016  0.01912144 -0.02281386 ... -0.0055596  -0.02353316
+ -0.0044327 ]"
+18,The First Email Sent,"In 1971, Ray Tomlinson sent the first email, introducing the '@' symbol to separate the user's name from the host computer. Email revolutionized communication, becoming a cornerstone of personal and professional interactions.",,"[-0.00087843 -0.00254101 -0.01150669 ...  0.02468168 -0.006976
+ -0.00428787]"
+19,The Development of the Graphical User Interface (GUI),"In the 1980s, Xerox PARC developed the first graphical user interface (GUI), which was later popularized by Apple's Macintosh and Microsoft's Windows. GUIs made computers more user-friendly and accessible to non-technical users.",,"[-0.01373724  0.03228071 -0.02240521 ... -0.01270904 -0.01955972
+  0.00420546]"
+20,The Launch of the Hubble Space Telescope,"On April 24, 1990, NASA launched the Hubble Space Telescope, which has provided stunning images and valuable data about the universe. Hubble's observations have led to breakthroughs in astrophysics, including the discovery of dark energy.",,"[-0.01026139  0.00652944 -0.00577947 ...  0.00593423 -0.00040735
+ -0.0171301 ]"
+21,The First Successful Cloning of a Mammal,"In 1996, scientists at the Roslin Institute in Scotland cloned Dolly the sheep, the first mammal cloned from an adult somatic cell. This breakthrough raised ethical questions and opened new possibilities for genetic research.",,"[-0.00807695  0.01051581 -0.01234636 ...  0.02237215  0.00519032
+  0.00293733]"
+22,The Introduction of the Smartphone,"In the early 2000s, smartphones like the BlackBerry and later the iPhone combined communication, computing, and internet access into a single device. Smartphones have become indispensable tools for work, entertainment, and social interaction.",,"[-0.00506454  0.00337636 -0.0131104  ... -0.02351725 -0.02269013
+  0.01290054]"
+23,The Development of 3D Printing,"In the 1980s, Charles Hull invented stereolithography, the first 3D printing technology. Since then, 3D printing has evolved to create everything from prototypes to medical implants, revolutionizing manufacturing and design.",,"[-0.00568093  0.01220193 -0.0183764  ...  0.01250646 -0.01926897
+ -0.00451534]"
+24,The First Successful Mars Rover Landing,"In 1997, NASA's Pathfinder mission successfully landed the Sojourner rover on Mars, marking the beginning of robotic exploration of the Red Planet. Subsequent rovers like Curiosity and Perseverance have expanded our understanding of Mars' geology and potential for life.",,"[-0.00850741  0.00373363 -0.00635648 ...  0.04091259 -0.01975002
+ -0.0008086 ]"
+25,The Emergence of Renewable Energy Technologies,"In the 21st century, advancements in solar, wind, and battery technologies have made renewable energy more efficient and affordable. These innovations are critical for addressing climate change and reducing dependence on fossil fuels.",,"[-0.00742267  0.01840921 -0.01818801 ...  0.01179763 -0.01897452
+  0.02779816]"
+26,The Development of Virtual Reality (VR),"In the 2010s, VR technology advanced significantly, with companies like Oculus (acquired by Facebook) creating immersive headsets for gaming, training, and education. VR has applications in entertainment, healthcare, and remote work.",,"[-0.02386739  0.02196168 -0.02783653 ... -0.00112864 -0.02928224
+  0.01387884]"
+27,The First Successful Test of a Self-Driving Car,"In 2004, DARPA hosted the Grand Challenge, a competition for autonomous vehicles. While no team completed the course that year, the event spurred innovation, leading to the development of self-driving cars by companies like Google and Tesla.",,"[ 0.01413946  0.00029746 -0.015546   ...  0.01623694 -0.02127088
+ -0.0120975 ]"
+28,The Introduction of the Gig Economy,"In the 2010s, platforms like Uber, Airbnb, and DoorDash popularized the gig economy, where individuals work as independent contractors. This model has transformed industries but also raised concerns about labor rights and job security.",,"[-0.06118607 -0.0161903  -0.01954839 ...  0.01335572 -0.02507709
+ -0.0049669 ]"
+29,The First CRISPR-Edited Babies,"In 2018, Chinese scientist He Jiankui announced the birth of the first CRISPR-edited babies, sparking global controversy. The experiment raised ethical concerns about the use of gene-editing technology in humans.",,"[-0.02791065 -0.03015218 -0.01810095 ...  0.00846599 -0.01969171
+  0.01312379]"
+30,The Launch of SpaceX's Falcon Heavy,"On February 6, 2018, SpaceX successfully launched the Falcon Heavy, the most powerful operational rocket in the world. The mission demonstrated the potential for reusable rockets to reduce the cost of space exploration.",,"[-0.01952197  0.01804886 -0.00987379 ...  0.01624398  0.00837414
+ -0.01240859]"
+31,The Development of Deepfake Technology,"In the late 2010s, deepfake technology emerged, using AI to create realistic but fake audio and video content. While it has applications in entertainment, it also raises concerns about misinformation and privacy.",,"[-0.01930654  0.00632599 -0.01818362 ...  0.00523178 -0.01440653
+ -0.00687787]"
+32,The First Detection of Gravitational Waves,"In 2015, the LIGO collaboration detected gravitational waves for the first time, confirming a prediction of Einstein's theory of general relativity. This discovery opened a new way to observe the universe.",,"[ 0.00266619  0.00604612 -0.00106987 ...  0.00709608 -0.01980767
+ -0.01116615]"
+33,The Rise of Electric Vehicles,"In the 2010s, companies like Tesla popularized electric vehicles (EVs), leading to widespread adoption and advancements in battery technology. EVs are key to reducing greenhouse gas emissions from transportation.",,"[-0.02396042  0.01581513 -0.01756681 ...  0.00988446 -0.0040226
+  0.01052882]"
+34,The Introduction of 5G Networks,"In the late 2010s, 5G networks began rolling out, offering faster speeds and lower latency than previous generations. 5G enables advancements in IoT, autonomous vehicles, and smart cities.",,"[-0.05394467 -0.01326923 -0.02052453 ...  0.01348617 -0.01843953
+ -0.00535108]"
+35,The First AI to Beat a World Champion in Go,"In 2016, Google's AlphaGo defeated world champion Lee Sedol in the complex board game Go. This milestone demonstrated the potential of AI to master tasks requiring intuition and strategy.",,"[ 0.01724787 -0.01117402 -0.0116443  ...  0.02940881 -0.01094882
+ -0.01738034]"
+36,The Development of the Metaverse,"In the 2020s, companies like Meta (formerly Facebook) began developing the metaverse, a virtual shared space created by the convergence of physical and virtual reality. The metaverse has applications in gaming, social interaction, and commerce.",,"[-0.01367481 -0.00962326 -0.01568428 ...  0.02065575 -0.04493898
+ -0.02142561]"
+37,The First Successful Test of Nuclear Fusion,"In 2022, scientists at the National Ignition Facility achieved a net energy gain in a nuclear fusion reaction, a major step toward harnessing fusion as a clean and virtually limitless energy source.",,"[ 0.01930883  0.007423   -0.01088621 ...  0.04733694 -0.00135997
+  0.00489492]"
+38,The Introduction of Biometric Authentication,"In the 2010s, biometric authentication methods like fingerprint scanning and facial recognition became widespread, enhancing security and convenience in devices and systems.",,"[-0.00018149 -0.00231166 -0.01586648 ...  0.00711236 -0.02443883
+  0.02032269]"
+39,The First Commercial Spaceflight,"In 2021, companies like SpaceX and Blue Origin launched commercial spaceflights, allowing private citizens to travel to space. This marked the beginning of a new era in space tourism.",,"[-0.00826162 -0.01874796 -0.01428692 ...  0.03705561 -0.02020794
+ -0.00442338]"
+40,The Development of Smart Cities,"In the 21st century, cities around the world began integrating IoT, AI, and data analytics to create smart cities. These initiatives aim to improve urban living through efficient resource management and enhanced public services.",,"[-0.01419772  0.01258741 -0.01818045 ...  0.00644121 -0.02427748
+  0.00455741]"
+41,The First AI-Generated Artwork Sold at Auction,"In 2018, an AI-generated artwork titled 'Portrait of Edmond de Belamy' was sold at Christie's for $432,500. This event highlighted the growing role of AI in creative industries.",,"[-0.00677069  0.00302956 -0.01366459 ...  0.02010875 -0.00276002
+  0.01251868]"
+42,The Introduction of Voice Assistants,"In the 2010s, voice assistants like Amazon's Alexa, Apple's Siri, and Google Assistant became ubiquitous, transforming how people interact with technology and access information.",,"[-0.02126877  0.00219855 -0.02026254 ...  0.00201592 -0.03035245
+ -0.00154984]"
+43,The First Successful Test of a Hyperloop,"In 2020, Virgin Hyperloop conducted the first successful test of a hyperloop system with human passengers. This high-speed transportation technology promises to revolutionize travel.",,"[-0.02086384  0.03105839 -0.01456721 ...  0.0286097  -0.0252365
+ -0.00660272]"
+44,The Development of Lab-Grown Meat,"In the 2010s, companies like Memphis Meats and Beyond Meat developed lab-grown and plant-based meat alternatives, offering sustainable and ethical options for food production.",,"[ 0.01378386  0.01231298 -0.0259748  ... -0.00586103 -0.01447755
+  0.01296171]"
+45,The First AI-Powered Drug Discovery,"In the 2020s, AI began playing a significant role in drug discovery, accelerating the identification of potential treatments for diseases like cancer and COVID-19.",,"[-0.02259313 -0.0096504  -0.00797757 ...  0.00444531 -0.02809812
+ -0.00107301]"
+46,The Introduction of Quantum Cryptography,"In the 21st century, quantum cryptography emerged as a method for secure communication, leveraging the principles of quantum mechanics to protect data from hacking.",,"[-0.00853821 -0.03645159 -0.01397721 ... -0.00270154 -0.02506047
+ -0.02571725]"
+47,The First AI-Powered Legal Assistant,"In the 2010s, AI-powered legal assistants like ROSS began assisting lawyers with legal research and case analysis, demonstrating the potential of AI in the legal profession.",,"[-0.01784373 -0.02725798 -0.01836894 ...  0.0256955  -0.02362096
+  0.00687358]"
+48,The Development of Brain-Computer Interfaces,"In the 2020s, companies like Neuralink advanced brain-computer interface technology, enabling direct communication between the brain and external devices.",,"[ 0.03041868  0.00751062 -0.01260951 ... -0.01156824 -0.0322997
+  0.00222195]"
+49,The First AI-Powered Journalism,"In the 2010s, AI began generating news articles and reports, raising questions about the future of journalism and the role of human writers.",,"[-0.00562239 -0.03365768 -0.01786387 ...  0.00952612 -0.01725052
+  0.01092533]"
+50,The Introduction of Smart Glasses,"In the 2020s, companies like Google and Snap introduced smart glasses, blending augmented reality with everyday eyewear to enhance productivity and entertainment.",,"[-0.01605872 -0.0198088  -0.02595006 ... -0.00697751 -0.03914722
+  0.01028986]"
