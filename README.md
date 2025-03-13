@@ -104,8 +104,8 @@ rag_system.run_pipeline(query="What is quantum supremacy?", save_emb=False, top_
 
 ---
 
-## Usage of streamlit app
-To run streamlit app use following command
+### Running the Streamlit App
+To launch the **Streamlit app**, run the following command:
 
-```python
-stramlit run streamlit_app.py
+```sh
+streamlit run streamlit_app.py
