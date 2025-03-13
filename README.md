@@ -78,6 +78,15 @@ The RAG system is designed to answer user queries by retrieving relevant documen
 - The system passes the retrieved documents and the user query to the LLM.
 - The LLM generates a response based on the context provided by the retrieved documents.
 
+
+
+---
+### Running the Streamlit App
+To launch the **Streamlit app**, run the following command:
+
+```sh
+streamlit run streamlit_app.py
+
 ---
 
 ## Usage From notebook
@@ -101,11 +110,3 @@ rag_system = RAGSystem(
 )
 rag_system.run_pipeline(query="What is quantum supremacy?", save_emb=False, top_k=3)
 
-
----
-
-### Running the Streamlit App
-To launch the **Streamlit app**, run the following command:
-
-```sh
-streamlit run streamlit_app.py
