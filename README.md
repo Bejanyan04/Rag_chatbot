@@ -80,7 +80,7 @@ The RAG system is designed to answer user queries by retrieving relevant documen
 
 ---
 
-## Usage
+## Usage From notebook
 
 ### Initialization
 To initialize the RAG system, provide the following:
@@ -100,3 +100,12 @@ rag_system = RAGSystem(
     llm_model="gpt-3.5-turbo"  # OpenAI model for response generation
 )
 rag_system.run_pipeline(query="What is quantum supremacy?", save_emb=False, top_k=3)
+
+
+---
+
+## Usage of streamlit app
+To run streamlit app use following command
+
+```python
+stramlit run streamlit_app.py
